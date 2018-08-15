@@ -3,7 +3,7 @@ A tiny image for gitbook build
 
 DockerHub: https://hub.docker.com/r/pelin/node-gitbook/
 
-## How to user
+## How to use
 
 First, cd gitbook_dir(the dir what you'll use `gitbook build`)
 
